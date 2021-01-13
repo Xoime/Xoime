@@ -260,3 +260,14 @@ html[xmlns] .flexslider .slides {
     right: 10px;
   }
 }
+
+@media (max-width:320px){
+  .flex-direction-nav .flex-prev {
+    opacity: 1;
+    left: 10px;
+  }
+  .flex-direction-nav .flex-next {
+    opacity: 1;
+    right: 10px;
+  }
+}
