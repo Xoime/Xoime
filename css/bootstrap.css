@@ -154,7 +154,7 @@ input[type="submit"] {
 
 button[disabled],
 html input[disabled] {
-  cursor: default;
+  
 }
 
 button::-moz-focus-inner,
@@ -5232,7 +5232,7 @@ tbody.collapse.in {
   color: #fff;
   background-color: #337ab7;
   border-color: #337ab7;
-  cursor: default;
+  
 }
 .pagination > .disabled > span,
 .pagination > .disabled > span:hover,
