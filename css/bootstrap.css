@@ -3686,7 +3686,7 @@ select[multiple].input-lg,
 }
 
 a.btn.disabled, fieldset[disabled] a.btn {
-  pointer-events: none;
+
 }
 
 .btn-default {
