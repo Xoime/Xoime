@@ -3427,7 +3427,8 @@ select[multiple].input-lg,
   height: 42px;
   line-height: 42px;
   text-align: center;
-  pointer-events: none;
+  
+
 }
 
 .input-lg + .form-control-feedback, .input-group-lg > .form-control + .form-control-feedback,
@@ -4358,7 +4359,7 @@ tbody.collapse.in {
 [data-toggle="buttons"] > .btn-group > .btn input[type="checkbox"] {
   position: absolute;
   clip: rect(0, 0, 0, 0);
-  pointer-events: none;
+  
 }
 
 .input-group {
